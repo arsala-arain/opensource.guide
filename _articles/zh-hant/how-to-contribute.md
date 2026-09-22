@@ -136,7 +136,7 @@ redirect_from: /zh-tw/how-to-contribute/
 即使你是一個軟體開發者，撰寫說明文件也能幫助剛加入開源的你去更加的認識它。這通常也能讓你以一個不用接觸程式碼的方式自在的參與專案，當中協作的過程亦能建立你的信心與經驗。
 
 ## **根據專案定位自我**
-
+on💻
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1179362?v=3&s=460" class="pquote-avatar" alt="avatar">
   如果你嘗試使用 Issue tracker 去了解一件 Issue，看完後還是滿腹疑惑，其他的人一定也會。要能會活用這些工具有許多小訣竅，總會有人教你怎麼使用，你也可以直接向他們提出問題。
